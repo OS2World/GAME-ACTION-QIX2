@@ -1,0 +1,78 @@
+QIX for OS/2 Version 1.0, classic DOS game now for OS/2. Second release, now includes KBDVIO32.DLL. 
+
+-----------------
+
+QIX/2, second release!
+
+
+When digging through my filebase, I stumbled upon QIX/2, a port of a classic
+DOS-game, I did 4(!) years ago, when trying Speed Pascal/2 1.5.Alpha.1.
+
+The game is still funny to play, and OS/2 people need lots of fun these days.
+
+The source is dated from 1991 and I do not know who the author (is) was.
+I don't think this is of any matter....
+
+The first release of Qix/2, about 2 month ago, was lacking one file, which 
+caused QIX2.EXE to crash immediately, i.e. the runtime-DLL of SpeedPascal/2
+named KBDVIO32.DLL, which is present on my system, obviously reintroduced by
+other programs. Sorry for the inconvenience! Nothing else has changed...
+
+Many thanks go to to Rocko for pointing me on this one.
+
+So have fun (at last).
+
+Herwig Bauernfeind
+FidoNet:  2:313/41.5
+Internet: herwig.bauernfeind@aon.at
+
+
+--------
+QIX for OS/2 32bit Version 1.0
+
+Finally!!!
+
+After years of waiting for this ultimate classic DOS-game, now there 
+is a port to OS/2. And not only a port, there are also some enhancements:
+
+*  Coloured Greeblys, coloured Qix and coloured Me!!
+*  Coloured score, lives, percentage!!
+*  Coloured line telling you, that it's the OS/2-Version that is runnimg.
+*  And it's 32bit, therefore it is fast, as fast as the original 
+   Version was expected to be (on an XT)
+*  /Q disables all sounds.
+   
+Oh, yes, you would not believe it! Now, as long as other games are not 
+released for OS/2, we can play good, old Qix. At last.
+
+Warning: If you take all this seriously, there is probably something 
+         wrong with you!
+
+History: 0.9 15-08-95 First release. QixStat is here, but not yet enabled.
+         1.0 14-09-95 Complete. Stat-Files are incompatible to those of the 
+                      DOS-Version.
+             
+If something goes wrong, blame it on the compiler. The port was done with 
+the great Speed-Pascal/2 1.5.ALPHA-1 from Rene Nuernberger, who can be 
+reached at:
+
+Compuserve	: 100614,306
+Internet	: speedsoft@special.infox.com
+Support		  support@special.infox.com
+Beta-Tester	  speedpascal.beta@special.infox.com
+Fido-Net    : SPEEDSOFT@2:249/5080
+
+
+The compiler is really great. The port was done in a jiffy. And its 
+a probably 10 year old code, which was ported from MV-Pascal to 
+Turbo Pascal 3 and 4. I do not know who the author is (was).
+
+I had to replace some DOS-Calls which were done via Interrupt and a keyboard 
+routine. What is more I had to change the Format of the Stats-File, because
+the code the compiler produced from the old Source did not run. 
+
+BTW. I am not a programmer.
+
+Keep on WARPing!!
+
+Herwig Bauernfeind
